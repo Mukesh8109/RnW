@@ -1,0 +1,152 @@
+Date,Product,Category,Unit,Price,Quantity Sold,Total Sales
+2025-07-01,Laptop,Electronics,pcs,60000,9,540000
+2025-07-01,Mobile Phone,Electronics,pcs,15000,20,300000
+2025-07-01,Shampoo,Personal Care,bottles,250,6,1500
+2025-07-01,Notebook,Stationery,pcs,50,10,500
+2025-07-01,T-shirt,Clothing,pcs,500,11,5500
+2025-07-02,Laptop,Electronics,pcs,60000,14,840000
+2025-07-02,Mobile Phone,Electronics,pcs,15000,13,195000
+2025-07-02,Shampoo,Personal Care,bottles,250,12,3000
+2025-07-02,Notebook,Stationery,pcs,50,6,300
+2025-07-02,T-shirt,Clothing,pcs,500,7,3500
+2025-07-03,Laptop,Electronics,pcs,60000,11,660000
+2025-07-03,Mobile Phone,Electronics,pcs,15000,13,195000
+2025-07-03,Shampoo,Personal Care,bottles,250,20,5000
+2025-07-03,Notebook,Stationery,pcs,50,11,550
+2025-07-03,T-shirt,Clothing,pcs,500,12,6000
+2025-07-04,Laptop,Electronics,pcs,60000,11,660000
+2025-07-04,Mobile Phone,Electronics,pcs,15000,7,105000
+2025-07-04,Shampoo,Personal Care,bottles,250,8,2000
+2025-07-04,Notebook,Stationery,pcs,50,15,750
+2025-07-04,T-shirt,Clothing,pcs,500,5,2500
+2025-07-05,Laptop,Electronics,pcs,60000,5,300000
+2025-07-05,Mobile Phone,Electronics,pcs,15000,8,120000
+2025-07-05,Shampoo,Personal Care,bottles,250,6,1500
+2025-07-05,Notebook,Stationery,pcs,50,10,500
+2025-07-05,T-shirt,Clothing,pcs,500,5,2500
+2025-07-06,Laptop,Electronics,pcs,60000,16,960000
+2025-07-06,Mobile Phone,Electronics,pcs,15000,8,120000
+2025-07-06,Shampoo,Personal Care,bottles,250,7,1750
+2025-07-06,Notebook,Stationery,pcs,50,12,600
+2025-07-06,T-shirt,Clothing,pcs,500,4,2000
+2025-07-07,Laptop,Electronics,pcs,60000,12,720000
+2025-07-07,Mobile Phone,Electronics,pcs,15000,12,180000
+2025-07-07,Shampoo,Personal Care,bottles,250,16,4000
+2025-07-07,Notebook,Stationery,pcs,50,11,550
+2025-07-07,T-shirt,Clothing,pcs,500,2,1000
+2025-07-08,Laptop,Electronics,pcs,60000,3,180000
+2025-07-08,Mobile Phone,Electronics,pcs,15000,1,15000
+2025-07-08,Shampoo,Personal Care,bottles,250,15,3750
+2025-07-08,Notebook,Stationery,pcs,50,18,900
+2025-07-08,T-shirt,Clothing,pcs,500,4,2000
+2025-07-09,Laptop,Electronics,pcs,60000,20,1200000
+2025-07-09,Mobile Phone,Electronics,pcs,15000,15,225000
+2025-07-09,Shampoo,Personal Care,bottles,250,9,2250
+2025-07-09,Notebook,Stationery,pcs,50,2,100
+2025-07-09,T-shirt,Clothing,pcs,500,20,10000
+2025-07-10,Laptop,Electronics,pcs,60000,19,1140000
+2025-07-10,Mobile Phone,Electronics,pcs,15000,2,30000
+2025-07-10,Shampoo,Personal Care,bottles,250,20,5000
+2025-07-10,Notebook,Stationery,pcs,50,7,350
+2025-07-10,T-shirt,Clothing,pcs,500,1,500
+2025-07-11,Laptop,Electronics,pcs,60000,15,900000
+2025-07-11,Mobile Phone,Electronics,pcs,15000,15,225000
+2025-07-11,Shampoo,Personal Care,bottles,250,11,2750
+2025-07-11,Notebook,Stationery,pcs,50,11,550
+2025-07-11,T-shirt,Clothing,pcs,500,5,2500
+2025-07-12,Laptop,Electronics,pcs,60000,11,660000
+2025-07-12,Mobile Phone,Electronics,pcs,15000,8,120000
+2025-07-12,Shampoo,Personal Care,bottles,250,10,2500
+2025-07-12,Notebook,Stationery,pcs,50,2,100
+2025-07-12,T-shirt,Clothing,pcs,500,16,8000
+2025-07-13,Laptop,Electronics,pcs,60000,1,60000
+2025-07-13,Mobile Phone,Electronics,pcs,15000,15,225000
+2025-07-13,Shampoo,Personal Care,bottles,250,12,3000
+2025-07-13,Notebook,Stationery,pcs,50,9,450
+2025-07-13,T-shirt,Clothing,pcs,500,13,6500
+2025-07-14,Laptop,Electronics,pcs,60000,18,1080000
+2025-07-14,Mobile Phone,Electronics,pcs,15000,8,120000
+2025-07-14,Shampoo,Personal Care,bottles,250,17,4250
+2025-07-14,Notebook,Stationery,pcs,50,2,100
+2025-07-14,T-shirt,Clothing,pcs,500,5,2500
+2025-07-15,Laptop,Electronics,pcs,60000,2,120000
+2025-07-15,Mobile Phone,Electronics,pcs,15000,4,60000
+2025-07-15,Shampoo,Personal Care,bottles,250,14,3500
+2025-07-15,Notebook,Stationery,pcs,50,6,300
+2025-07-15,T-shirt,Clothing,pcs,500,14,7000
+2025-07-16,Laptop,Electronics,pcs,60000,13,780000
+2025-07-16,Mobile Phone,Electronics,pcs,15000,14,210000
+2025-07-16,Shampoo,Personal Care,bottles,250,14,3500
+2025-07-16,Notebook,Stationery,pcs,50,8,400
+2025-07-16,T-shirt,Clothing,pcs,500,13,6500
+2025-07-17,Laptop,Electronics,pcs,60000,16,960000
+2025-07-17,Mobile Phone,Electronics,pcs,15000,2,30000
+2025-07-17,Shampoo,Personal Care,bottles,250,15,3750
+2025-07-17,Notebook,Stationery,pcs,50,10,500
+2025-07-17,T-shirt,Clothing,pcs,500,15,7500
+2025-07-18,Laptop,Electronics,pcs,60000,8,480000
+2025-07-18,Mobile Phone,Electronics,pcs,15000,17,255000
+2025-07-18,Shampoo,Personal Care,bottles,250,5,1250
+2025-07-18,Notebook,Stationery,pcs,50,1,50
+2025-07-18,T-shirt,Clothing,pcs,500,7,3500
+2025-07-19,Laptop,Electronics,pcs,60000,11,660000
+2025-07-19,Mobile Phone,Electronics,pcs,15000,18,270000
+2025-07-19,Shampoo,Personal Care,bottles,250,11,2750
+2025-07-19,Notebook,Stationery,pcs,50,16,800
+2025-07-19,T-shirt,Clothing,pcs,500,9,4500
+2025-07-20,Laptop,Electronics,pcs,60000,13,780000
+2025-07-20,Mobile Phone,Electronics,pcs,15000,20,300000
+2025-07-20,Shampoo,Personal Care,bottles,250,17,4250
+2025-07-20,Notebook,Stationery,pcs,50,12,600
+2025-07-20,T-shirt,Clothing,pcs,500,10,5000
+2025-07-21,Laptop,Electronics,pcs,60000,4,240000
+2025-07-21,Mobile Phone,Electronics,pcs,15000,5,75000
+2025-07-21,Shampoo,Personal Care,bottles,250,6,1500
+2025-07-21,Notebook,Stationery,pcs,50,5,250
+2025-07-21,T-shirt,Clothing,pcs,500,3,1500
+2025-07-22,Laptop,Electronics,pcs,60000,17,1020000
+2025-07-22,Mobile Phone,Electronics,pcs,15000,16,240000
+2025-07-22,Shampoo,Personal Care,bottles,250,8,2000
+2025-07-22,Notebook,Stationery,pcs,50,16,800
+2025-07-22,T-shirt,Clothing,pcs,500,15,7500
+2025-07-23,Laptop,Electronics,pcs,60000,17,1020000
+2025-07-23,Mobile Phone,Electronics,pcs,15000,20,300000
+2025-07-23,Shampoo,Personal Care,bottles,250,2,500
+2025-07-23,Notebook,Stationery,pcs,50,16,800
+2025-07-23,T-shirt,Clothing,pcs,500,20,10000
+2025-07-24,Laptop,Electronics,pcs,60000,7,420000
+2025-07-24,Mobile Phone,Electronics,pcs,15000,12,180000
+2025-07-24,Shampoo,Personal Care,bottles,250,19,4750
+2025-07-24,Notebook,Stationery,pcs,50,2,100
+2025-07-24,T-shirt,Clothing,pcs,500,14,7000
+2025-07-25,Laptop,Electronics,pcs,60000,4,240000
+2025-07-25,Mobile Phone,Electronics,pcs,15000,8,120000
+2025-07-25,Shampoo,Personal Care,bottles,250,9,2250
+2025-07-25,Notebook,Stationery,pcs,50,2,100
+2025-07-25,T-shirt,Clothing,pcs,500,8,4000
+2025-07-26,Laptop,Electronics,pcs,60000,9,540000
+2025-07-26,Mobile Phone,Electronics,pcs,15000,17,255000
+2025-07-26,Shampoo,Personal Care,bottles,250,3,750
+2025-07-26,Notebook,Stationery,pcs,50,2,100
+2025-07-26,T-shirt,Clothing,pcs,500,18,9000
+2025-07-27,Laptop,Electronics,pcs,60000,7,420000
+2025-07-27,Mobile Phone,Electronics,pcs,15000,17,255000
+2025-07-27,Shampoo,Personal Care,bottles,250,11,2750
+2025-07-27,Notebook,Stationery,pcs,50,9,450
+2025-07-27,T-shirt,Clothing,pcs,500,1,500
+2025-07-28,Laptop,Electronics,pcs,60000,17,1020000
+2025-07-28,Mobile Phone,Electronics,pcs,15000,7,105000
+2025-07-28,Shampoo,Personal Care,bottles,250,17,4250
+2025-07-28,Notebook,Stationery,pcs,50,8,400
+2025-07-28,T-shirt,Clothing,pcs,500,7,3500
+2025-07-29,Laptop,Electronics,pcs,60000,19,1140000
+2025-07-29,Mobile Phone,Electronics,pcs,15000,18,270000
+2025-07-29,Shampoo,Personal Care,bottles,250,6,1500
+2025-07-29,Notebook,Stationery,pcs,50,16,800
+2025-07-29,T-shirt,Clothing,pcs,500,18,9000
+2025-07-30,Laptop,Electronics,pcs,60000,8,480000
+2025-07-30,Mobile Phone,Electronics,pcs,15000,20,300000
+2025-07-30,Shampoo,Personal Care,bottles,250,14,3500
+2025-07-30,Notebook,Stationery,pcs,50,3,150
+2025-07-30,T-shirt,Clothing,pcs,500,17,8500
+
